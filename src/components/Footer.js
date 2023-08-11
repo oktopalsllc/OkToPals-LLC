@@ -101,6 +101,7 @@ const Footer = () => {
             <a
               href='https://www.linkedin.com/company/oktopalsllc/'
               className='text-[#bba14f] transition-colors duration-300 '
+              title='LinkedIn'
             >
               <svg viewBox='0 0 30 30' fill='currentColor' className='h-6'>
                 <circle cx='15' cy='15' r='4' />
