@@ -119,7 +119,7 @@ const Pricing = () => {
         {/* ================================================ */}
         <a
           href='mailto:contact@oktopals.com'
-          title='whatsapp'
+          title='Mail'
           className='fixed z-50 bottom-10 right-8 bg-[#bba14f]  w-20 h-20 rounded-full drop-shadow-lg flex justify-center items-center text-black hover:text-white text-4xl hover:bg-black border-black border-dashed hover:drop-shadow-2xl hover:animate-bounce duration-300'
         >
           <BiMailSend />
