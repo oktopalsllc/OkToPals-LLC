@@ -22,7 +22,7 @@ const OvaSite = () => {
           </svg>
           <Image
             className='object-cover w-full h-56 rounded shadow-lg lg:rounded-none lg:shadow-none md:h-96 lg:h-full'
-            src='/images/showcase.jpeg'
+            src='/images/showcase.jpg'
             alt='chart'
             width={500}
             height={500}
